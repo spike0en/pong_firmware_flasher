@@ -1,3 +1,6 @@
+:: SPDX-FileCopyrightText: spike0en
+:: SPDX-License-Identifier: MIT
+
 @echo off
 setlocal enabledelayedexpansion
 title Pong Flashable Firmware Repacker Script
